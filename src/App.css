@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.test{
+  background-color: #282c34;
+  color: aliceblue;
+  font-size: 20px;
+  font-weight: lighter;
+}
+.wrapper{
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}
