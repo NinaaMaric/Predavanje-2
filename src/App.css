@@ -43,7 +43,10 @@
   font-weight: lighter;
 }
 .wrapper{
-  display: flex;
-  justify-content: center;
-  margin-top: 5rem;
+  margin: 4rem 0 0 5rem;
+  grid-column: auto;
+}
+.wrapper button{
+  margin-bottom: 2rem !important;
+  margin-right: 1rem !important;
 }
